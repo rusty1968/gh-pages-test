@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["crate1","crate2"];
